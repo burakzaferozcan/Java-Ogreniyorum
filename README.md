@@ -1,2 +1,2 @@
 # Java-Ogreniyorum
-Java öğrenirken işlediğim konuları ekleyeceğim bir repository.
+Java öğrenirken işlediğim konuların dosyalarını ekleyeceğim bir repository.
